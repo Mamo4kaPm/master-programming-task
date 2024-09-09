@@ -25,7 +25,7 @@ public:
 
     std::string fullname() const
     {
-        return Viktoria_Dobrogorskaya;
+        return Viktoria_Dobrogorskaya; //new commit
     }
 
 private:
