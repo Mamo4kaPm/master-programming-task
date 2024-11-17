@@ -1,29 +1,22 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/workspaces/master-programming-task/lab4/tests/iterator.cpp" "/workspaces/master-programming-task/lab4/CMakeFiles/tests_iterator.dir/tests/iterator.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# Preprocessor definitions for this target.
-set(CMAKE_TARGET_DEFINITIONS_CXX
-  "BOOST_ALL_NO_LIB"
   )
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "include"
-  "_deps/catch2-src/src/catch2/.."
-  "_deps/catch2-build/generated-includes"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/user/Desktop/vika_lab/master-programming-task/lab4/tests/iterator.cpp" "CMakeFiles/tests_iterator.dir/tests/iterator.cpp.o" "gcc" "CMakeFiles/tests_iterator.dir/tests/iterator.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/workspaces/master-programming-task/lab4/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/DependInfo.cmake"
-  "/workspaces/master-programming-task/lab4/_deps/catch2-build/src/CMakeFiles/Catch2.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

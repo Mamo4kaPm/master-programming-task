@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tests_iterator.dir/tests/iterator.cpp.o"
+  "CMakeFiles/tests_iterator.dir/tests/iterator.cpp.o.d"
   "tests_iterator"
   "tests_iterator.pdb"
 )
